@@ -1,0 +1,8 @@
+ls -a
+ls -al
+ls -alF
+ls -FR
+ls -l su * /星号代表零个或多个字符
+ls -l su？问号代表一个字符
+ls -l  su[ai] a or i 
+ls -l su
